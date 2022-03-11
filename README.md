@@ -8,12 +8,14 @@ This repository has code for a anticipated mutational drift script that determin
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/16998734/157923880-17a5ea20-9bdb-4155-ac35-e22542afb23f.png">
 
 ### Mutated regions in the OMICRON variant sequences that are most likely to mutate based off: 
-o	the sequence logo determining conserved regions 
-o	the freq of each aa in each RBM 
-o	Percentages from literature, where spike proteins share 76% total identity : (Shah et al. 2020.)
+* the sequence logo determining conserved regions 
+  * <img width="228" alt="image" src="https://user-images.githubusercontent.com/16998734/157924995-66525d9d-59b5-4e39-985a-ad812f3d29ce.png">
+* the freq of each aa in each RBM 
+* Percentages from literature, where spike proteins share 76% total identity : (Shah et al. 2020.)
 
 ### Result
 Another phylogenetic analyses using the new sequence,the new variant diverges and is the outgroup to the remaining corona family which makes sense
+
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/16998734/157924453-97930f3f-e3b7-497d-8845-4ffcc0b295f8.png">
 
 
