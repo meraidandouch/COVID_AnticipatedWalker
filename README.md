@@ -1,4 +1,4 @@
-# RBM_RandomWalker
+# RBM_AnticipatedWalker
 
 ## Contributors: Merai Dandouch, Kyra Griffin Mitchell, Vridhi Vinaykiya
 
